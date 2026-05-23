@@ -1,5 +1,2 @@
 print("Hello world! im on github ")
-a = 23
-b = 47
-c = a +b 
-print(c)
+print("YaY i got to know how to make commits!! ")
